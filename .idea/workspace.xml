@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43a3d8cd-fec1-47ea-890d-534052e8e7af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/a.py" beforeDir="false" afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
     </list>
@@ -118,9 +119,9 @@
       <screen x="67" y="27" width="1213" height="997" />
     </state>
     <state x="162" y="159" key="SettingsEditor/67.27.1213.997@67.27.1213.997" timestamp="1579782580050" />
-    <state x="329" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1579686936122">
+    <state x="329" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1580289025086">
       <screen x="67" y="27" width="1213" height="997" />
     </state>
-    <state x="329" y="353" key="com.intellij.ide.util.TipDialog/67.27.1213.997@67.27.1213.997" timestamp="1579686936122" />
+    <state x="329" y="353" key="com.intellij.ide.util.TipDialog/67.27.1213.997@67.27.1213.997" timestamp="1580289025086" />
   </component>
 </project>
